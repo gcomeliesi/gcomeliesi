@@ -21,9 +21,9 @@ Driven by a passion for securing networks, system administration, and hands-on t
 ---
 
 ## 📁 Key GitHub Projects & Labs
-* [Windows Server & Active Directory Enterprise Lab](./active-directory-enterprise-lab) — Simulated corporate domain environment, GPOs, and NTFS access control.
-* [Network Vulnerability Assessment & Hardening Lab](./vulnerability-assessment-nmap-lab) — Network reconnaissance, port scanning (Nmap), and security remediation.
-* [OSINT & Digital Media Forensics Investigation](./osint-digital-forensics-investigation) — Controlled forensic analysis, metadata extraction (ExifTool/FFmpeg), and chain of custody.
+* [Windows Server & Active Directory Enterprise Lab](https://github.com/gcomeliesi/active-directory-enterprise-lab) — Simulated corporate domain environment, GPOs, and NTFS access control.
+* [Network Vulnerability Assessment & Hardening Lab](https://github.com/gcomeliesi/vulnerability-assessment-nmap-lab) — Network reconnaissance, port scanning (Nmap), and security remediation.
+* [OSINT & Digital Media Forensics Investigation](https://github.com/gcomeliesi/osint-digital-forensics-investigation) — Controlled forensic analysis, metadata extraction (ExifTool/FFmpeg), and chain of custody.
 
 ---
 
